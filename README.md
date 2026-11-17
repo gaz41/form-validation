@@ -1,0 +1,5 @@
+# form validation
+
+#### Simple client side form validation. Check username length, validate email and password match.
+
+email : <a  href="mailto:contact@gaz41.com" target="_blank" rel="noopener noreferrer">  contact@gaz41.com</a>
